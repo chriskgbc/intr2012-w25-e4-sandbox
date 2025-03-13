@@ -1,11 +1,11 @@
-# intr2012-w25-e3
+# intr2012-w25-e4
 
 # Steps
 
-1. Install `Live Server` (or equivalent) extension to create a development server
+1. Install `Live Server` extension to create a development server
 2. Activate `GitHub Pages` with `main` as the source branch
 3. Start coding!
 
 # Resources
 
-- Web Speech API: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API
+- Code guide: https://letterform.app/chris.kim@georgebrown.ca/sample/intr2012-w25-e5-source
